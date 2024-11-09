@@ -60,19 +60,19 @@
     "url": "https://imgs.inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/imgs.inspiremydreams.com.ico",
     "slug": "background-image-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 291,
-    "timeYear": 300,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 309,
+    "timeDay": 326,
+    "timeWeek": 233,
+    "timeMonth": 300,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-11-09": 0
+      "2024-11-09": 13
     }
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/inspiremydreams.com.ico",
     "slug": "inspire-my-dreams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 202,
     "timeMonth": 180,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "The Karen Yates",
@@ -60,9 +62,9 @@
     "url": "https://imgs.inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/imgs.inspiremydreams.com.ico",
     "slug": "background-image-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +73,8 @@
     "timeWeek": 284,
     "timeMonth": 277,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   }
 ]

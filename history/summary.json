@@ -4,19 +4,19 @@
     "url": "https://inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/inspiremydreams.com.ico",
     "slug": "inspire-my-dreams",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 157,
-    "timeWeek": 202,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.76%",
+    "time": 194,
+    "timeDay": 145,
+    "timeWeek": 193,
     "timeMonth": 180,
-    "timeYear": 195,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 223
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 218,
     "timeDay": 124,
     "timeWeek": 222,
-    "timeMonth": 209,
+    "timeMonth": 211,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 264,
     "timeDay": 209,
     "timeWeek": 290,
-    "timeMonth": 256,
+    "timeMonth": 259,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2024-11-06": 37
@@ -62,19 +62,19 @@
     "url": "https://imgs.inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/imgs.inspiremydreams.com.ico",
     "slug": "background-image-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 204,
-    "timeWeek": 284,
-    "timeMonth": 277,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.76%",
+    "time": 301,
+    "timeDay": 218,
+    "timeWeek": 278,
+    "timeMonth": 281,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 223
     }
   }
 ]

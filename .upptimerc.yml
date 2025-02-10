@@ -9,8 +9,8 @@ sites:
     url: https://thekarenyates.com
   - name: Worldschool Camp
     url: https://worldschoolcamp.com
-  - name: Background image service
-    url: https://imgs.inspiremydreams.com
+  - name: The Trevor Yates
+    url: https://thetrevoryates.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

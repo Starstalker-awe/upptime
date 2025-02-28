@@ -24,18 +24,20 @@
     "url": "https://thekarenyates.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekarenyates.com.ico",
     "slug": "the-karen-yates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 146,
-    "timeWeek": 220,
-    "timeMonth": 205,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 140,
+    "timeWeek": 209,
+    "timeMonth": 203,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Worldschool Camp",

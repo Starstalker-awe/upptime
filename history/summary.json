@@ -4,18 +4,19 @@
     "url": "https://inspiremydreams.com",
     "icon": "https://icons.duckduckgo.com/ip3/inspiremydreams.com.ico",
     "slug": "inspire-my-dreams",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 192,
     "timeDay": 158,
-    "timeWeek": 221,
+    "timeWeek": 196,
     "timeMonth": 180,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2025-02-28": 2,
       "2024-12-11": 223
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://thekarenyates.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekarenyates.com.ico",
     "slug": "the-karen-yates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 215,
@@ -36,7 +37,7 @@
     "timeMonth": 206,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-02-28": 19
+      "2025-02-28": 20
     }
   },
   {
@@ -44,11 +45,11 @@
     "url": "https://worldschoolcamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/worldschoolcamp.com.ico",
     "slug": "worldschool-camp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.84%",
     "time": 257,
     "timeDay": 241,
@@ -56,7 +57,7 @@
     "timeMonth": 226,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-02-28": 19,
+      "2025-02-28": 20,
       "2025-01-31": 273,
       "2024-11-06": 37
     }
@@ -66,7 +67,7 @@
     "url": "https://thetrevoryates.com",
     "icon": "https://icons.duckduckgo.com/ip3/thetrevoryates.com.ico",
     "slug": "the-trevor-yates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",

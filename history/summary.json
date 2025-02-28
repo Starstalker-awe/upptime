@@ -24,19 +24,19 @@
     "url": "https://thekarenyates.com",
     "icon": "https://icons.duckduckgo.com/ip3/thekarenyates.com.ico",
     "slug": "the-karen-yates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 231,
-    "timeWeek": 232,
-    "timeMonth": 209,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 225,
+    "timeMonth": 208,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-02-28": 10
+      "2025-02-28": 0
     }
   },
   {
@@ -44,18 +44,19 @@
     "url": "https://worldschoolcamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/worldschoolcamp.com.ico",
     "slug": "worldschool-camp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.85%",
     "time": 257,
-    "timeDay": 246,
-    "timeWeek": 269,
-    "timeMonth": 225,
+    "timeDay": 211,
+    "timeWeek": 260,
+    "timeMonth": 224,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2025-01-31": 273,
       "2024-11-06": 37
     }
@@ -65,17 +66,19 @@
     "url": "https://thetrevoryates.com",
     "icon": "https://icons.duckduckgo.com/ip3/thetrevoryates.com.ico",
     "slug": "the-trevor-yates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 171,
-    "timeWeek": 238,
-    "timeMonth": 212,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 209,
+    "timeDay": 157,
+    "timeWeek": 228,
+    "timeMonth": 209,
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   }
 ]

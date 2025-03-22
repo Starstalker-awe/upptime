@@ -11,6 +11,8 @@ sites:
     url: https://worldschoolcamp.com
   - name: The Trevor Yates
     url: https://thetrevoryates.com
+  - name: IMGS Microservice
+    url: https://imgs.thetrevoryates.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

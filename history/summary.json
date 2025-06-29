@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thetrevoryates.com.ico",
     "slug": "the-trevor-yates",
     "status": "up",
-    "uptime": "96.84%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.86%",
     "time": 420,
     "timeDay": 2536,
     "timeWeek": 2610,
@@ -110,9 +110,9 @@
     "url": "https://imgs.thetrevoryates.com",
     "icon": "https://icons.duckduckgo.com/ip3/imgs.thetrevoryates.com.ico",
     "slug": "imgs-microservice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.50%",
@@ -122,6 +122,7 @@
     "timeMonth": 751,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-27": 18,
       "2025-04-16": 692
     }
